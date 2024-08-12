@@ -1,0 +1,23 @@
+<html>
+<head></head>
+<body>
+<h1>IFRAMES</h1>
+<iframe src="https://zeenews.india.com/"></iframe>
+<iframe src="https://zeenews.india.com/photos/sports/neeraj-chopras-gold-medal-event-live-streaming-details-when-and-where-to-watch-javelin-throw-final-at-paris-olympics-2024-2774785/neeraj-chopra-qualifies-for-final-2774792"></iframe>
+<iframe src="./Audio1.mp3"></iframe>
+<iframe src="./F1 Trailer.mp4"></iframe>
+<iframe src="KK.jpg"></iframe><br>
+<h2>Listen to the music</h2>
+<audio controls muuted>
+<source src="Raavana.mp3">
+</audio><br>
+<video controls width="400" height="200">
+<source src="GT Trailer.mp4">
+</video><br>
+Visit <a href="https://www.youtube.com/" target="_blank">Youtube</a> for more details
+
+
+
+</body>
+</html>
+
